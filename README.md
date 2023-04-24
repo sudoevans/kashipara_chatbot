@@ -1,5 +1,13 @@
 # kashipara_chatbot
 A simple chatbot using Tkinter and Openai GPT3.5 API
 
-TODO:
+## TODO:
 Improve UI
+
+## From:
+[]("./oldUI")
+
+## To:
+
+[]("./newUI")
+
